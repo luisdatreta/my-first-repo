@@ -1,18 +1,16 @@
 # Luis
 
-### Where
+### Who / Where / What
 
-I live in Lux
+Portuguese - born & raised in Luxembourg.
+Studied Geography with a Masters in Meteorology.
+Likes lifting weights, videogames, cats & piano playing.
 
-###
+### GitHub
 
-I lift weights
+Finally decided to actually learn programming & how to code.
+This GitHub is part of that learning process
 
+### Contact details
 
-###
-
-I eat protein shakes all day everyday
-
-###
-
-Get in touch with me on [my twitter](https://twitter.com/fresh_kunami)
+I would rather not be contacted
