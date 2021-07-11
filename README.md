@@ -1,29 +1,18 @@
-# This is a large heading
+# Luis
 
-## This is a smaller heading
+### Where
 
-**Imagination** blah blah *unknown* something **name**.
+I live in Lux
 
-- This is 
-- an unordered
-- list
+###
 
-1. This is
-2. an ordered
-3. list
+I lift weights
 
-Here is `some code` in the middle of a sentence.
 
-```
-This is
-a block
-of code
-```
+###
 
-Here is how you make [a link](https://coursera.org)
+I eat protein shakes all day everyday
 
-[This is an image which really is just a link to an image.]()
+###
 
-An actual image has to be stored somewhere.
-
-nano README.md
+Get in touch with me on [my twitter](https://twitter.com/fresh_kunami)
